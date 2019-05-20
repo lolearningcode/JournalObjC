@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  EntryViewController.h
 //  JournalObjC
 //
 //  Created by Lo Howard on 5/20/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface EntryViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
